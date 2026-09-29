@@ -16,3 +16,20 @@ print("Hello", "World", sep=" - ")
 
 # end
 print("Hello", "world", end="")
+
+Conditional Statements
+
+user_name = input("Enter your name: ") 
+if user_name == "maari":
+    print(f"Hello, {user_name}! Welcome to the program.")
+elif user_name == "arun":
+    print(f"Hello, {user_name}! Welcome to the program.")
+else:
+    print("none")
+
+    status = input("Enter your status (active/inactive): ")
+    if status == "active":
+        print("You are active.")
+    elif status == "inactive":
+        print("You are inactive.")
+        
