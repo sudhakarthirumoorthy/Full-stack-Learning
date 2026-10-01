@@ -25,4 +25,5 @@ if option in [1, 2, 3, 4]:
     print(f"The result of the operation is {result}")
 
 else:
-    print("Invalid operation entered")
+   option not in [1, 2, 3, 4]
+print("Invalid operation entered")

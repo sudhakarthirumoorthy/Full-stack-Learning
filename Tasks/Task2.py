@@ -7,4 +7,3 @@ elif num_2 >= num_1 and num_2 >= num_3:
     print(f"{num_2} is the largest number.")
 else:
     print(f"{num_3} is the largest number.")
-    
