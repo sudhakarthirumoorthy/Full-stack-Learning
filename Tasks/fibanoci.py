@@ -1,14 +1,14 @@
-num = int(input("Enter the number of terms: "))
+num = int(input("Enter the number : "))
 
 first = 0
 second = 1
 
 for i in range(num):
-    print(first, end="\n")
 
     next_number = first + second
     first = second
     second = next_number
+    print(first, end="\n")
 
 # The Fibonacci series is a sequence of numbers where each number is the sum of the two preceding ones
 # Fibonacci series: Each next number is calculated by adding the previous two numbers.
