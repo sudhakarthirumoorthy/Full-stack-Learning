@@ -26,11 +26,7 @@ def total():
 answer = total()
 print("Total", answer)
 
-# def factorial(number):
-#     for i in range(1,6):
-#     return i* number
-# factorial(5)
-# print("Toatl", answer)
+
 
 def factorial(number):
     result = 1
