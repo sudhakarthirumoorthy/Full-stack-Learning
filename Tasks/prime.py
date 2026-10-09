@@ -11,3 +11,4 @@ if count == 2:
     print("Prime number")
 else:
     print("Not a prime number")
+
