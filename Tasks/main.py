@@ -7,6 +7,7 @@ with open("message.html", "w") as file:
 # 2. Read the function from the file
 with open("message.txt", "r") as file:
     code = file.read()
+    
 
 # 3. Execute the function definition
 exec(code)
