@@ -132,7 +132,7 @@ I believe in validating my programming knowledge through certifications and cont
 
 ### 🔗 Certificate Links
 
-- **HackerRank Python (Basic):** Add your public certificate URL here.
+- **HackerRank Python (Basic): https://www.hackerrank.com/certificates/363d8faf5a87
 - **Other certificates:** Links will be added after completion.
 
 I will continue earning certifications and developing my skills in Python, Full Stack Development, AI Engineering, and Cloud Computing.
