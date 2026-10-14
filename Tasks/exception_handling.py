@@ -1,10 +1,10 @@
 
-# try:
-#     num = int(input("Enter a number: "))
-#     print("Your number is:", num)
+try:
+    num = int(input("Enter a number: "))
+    print("Your number is:", num)
 
-# except ValueError:
-#     print("Please enter numbers only!")
+except ValueError:
+    print("Please enter numbers only!")
 
 
 try:
@@ -21,3 +21,19 @@ else:
 
 finally:
     print("Program completed.")
+
+try:
+    num_1 = float(input(" Enter the number : "))
+    num_2 = float(input(" Enter the number : "))
+    Total = num_1 / num_2
+    print(Total)
+
+except ZeroDivisionError:
+    print("ZeroDivisionError")
+
+else:
+    print("Division has been completed!!")
+finally:
+    print("The Program has been Executed!!")
+    
+
